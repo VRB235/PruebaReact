@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580775075131",
+    "project_id": "srucab-dev",
+    "storage_bucket": "srucab-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580775075131:android:b23e64af8d45c5ac3eab1e",
+        "android_client_info": {
+          "package_name": "ve.edu.ucab.srucab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580775075131-87coice2so641dgffkkgb8stlgp89eua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJIsIgaQsbXgkVf28gzlzBVuRr5WJ9BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580775075131-87coice2so641dgffkkgb8stlgp89eua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
